@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./icon.png" alt="Logo" width="200" height="200">
-</p>
+https://www.bloxybet.com/
 
 <div align="center">
   <h3>BloxWin</h3>
